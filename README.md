@@ -7,4 +7,4 @@ https://ic.com/?camp=78657
 
    <!-- END_HEADER -->
 
-This is a follow along video, taking an indicator idea and writing the code to produce the indicator. The aim of the video is to show coding techniques, not to promote the indicator which is just an example here.
+The purpose of this is to lead you through the basics of creating a very simple indicator which I have called the Moving Average Ribbon. You may be able to find variations of this indicator in other places but this is the full source code and the associated video will explain the coding techniques used.
