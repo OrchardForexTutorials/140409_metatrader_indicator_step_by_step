@@ -7,7 +7,9 @@ https://orchardforex.com/ic
 
 <!-- END_HEADER -->
 
-The purpose of this is to lead you through the basics of creating a very simple indicator which I have called the Moving Average Ribbon. You may be able to find variations of this indicator in other places but this is the full source code and the associated video will explain the coding techniques used.<!-- START_FOOTER -->
+The purpose of this is to lead you through the basics of creating a very simple indicator which I have called the Moving Average Ribbon. You may be able to find variations of this indicator in other places but this is the full source code and the associated video will explain the coding techniques used.
+
+<!-- START_FOOTER -->
 ### Warning
 
 This is not to be used for live trading
