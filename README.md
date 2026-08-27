@@ -1,6 +1,6 @@
 <!-- START_HEADER -->
 
-Youtube:
+Youtube:  
 https://youtu.be/3sLrhJN0_pA
 
 For a broker with fast execution and tight spreads sign up to IC Markets using our affiliate link <br>
