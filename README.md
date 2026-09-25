@@ -1,3 +1,16 @@
+<!-- START_HEADER -->
+
+Youtube:  
+https://youtu.be/3sLrhJN0_pA
+
+For a broker with fast execution and tight spreads sign up to IC Markets using our affiliate link <br>
+https://orchardforex.com/ic
+
+<!-- END_HEADER -->
+
+The purpose of this is to lead you through the basics of creating a very simple indicator which I have called the Moving Average Ribbon. You may be able to find variations of this indicator in other places but this is the full source code and the associated video will explain the coding techniques used.
+
+<!-- START_FOOTER -->
 ### Warning
 
 This is not to be used for live trading
@@ -55,3 +68,6 @@ ALSO, SINCE THE TRADES HAVE NOT BEEN EXECUTED, THE RESULTS MAY HAVE UNDER-OR-OVE
 IF ANY, OF CERTAIN MARKET FACTORS, SUCH AS LACK OF LIQUIDITY. SIMULATED TRADING PROGRAMS IN GENERAL
 ARE ALSO SUBJECT TO THE FACT THAT THEY ARE DESIGNED WITH THE BENEFIT OF HINDSIGHT.
 NO REPRESENTATION IS BEING MADE THAN ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PROFIT OR LOSSES SIMILAR TO THOSE SHOWN.
+<!-- END_FOOTER -->
+
+
